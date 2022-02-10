@@ -15,7 +15,7 @@ function Home() {
         <div className="bg-portada bg-cover bg-center h-screen">
           <div className="w-screen grid place-items-center my-8">
             <h1 className="font-bold pt-4 text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-center">
-              Lic. Karina Gonzáles Corral
+              Lic. Karina González Corral
             </h1>
           </div>
           <div className="grid grid-cols-2">

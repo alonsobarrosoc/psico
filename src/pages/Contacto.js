@@ -2,6 +2,10 @@ import react from "react";
 import TarjContacto from "../components/TarjContacto";
 
 function Contacto() {
+  const tel = '2223233275'
+  const wa = '2223233275'
+  const correo = ''
+  
   return (
     <>
       <h1 className="titulo pt-16 font-bold" name="contacto">
@@ -12,7 +16,7 @@ function Contacto() {
           <div className="text-normal">
 
           <p className="font-bold">
-            Karina Gonzalez Corral
+            Karina González Corral
             <br />
             Psicóloga, Lic. Psicología
           </p>
@@ -24,6 +28,7 @@ function Contacto() {
           <p>
             <b>Teléfono:</b>
             <br />
+            {tel}
             2223233275
           </p>
           </div>

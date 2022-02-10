@@ -177,7 +177,7 @@ function Servicios() {
             ) : null}
           </div>
         </div>
-        <img alt="brain" src={brain} height="200" width="200" />
+        <img alt="brain" src={brain} height="300" width="300" />
       </div>
       {/* 333333 */}
     </>
