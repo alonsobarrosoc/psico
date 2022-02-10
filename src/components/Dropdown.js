@@ -35,7 +35,7 @@ function Dropdown({ isOpen, toggle }) {
         duration={500}
         onClick={toggle}
       >
-        Servicios
+        Innovación
       </Link>
 
       <Link

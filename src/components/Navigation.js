@@ -1,6 +1,6 @@
 import React, { Fragment, useState, useEffect } from "react";
 import Dropdown from "./Dropdown";
-import logo from "../imgs/psico.png";
+import logo from "../imgs/psicow.png";
 import { Link } from "react-scroll";
 
 const isActive = (history, path) => {
@@ -73,7 +73,7 @@ const Navigation = ({ history }) => {
             smooth={true}
             duration={500}
           >
-            Servicios
+            Innovación
           </Link>
           <Link
             activeClass="active"

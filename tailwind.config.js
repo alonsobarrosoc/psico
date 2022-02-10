@@ -5,6 +5,9 @@ module.exports = {
       colors: {
         psico: "#333c87",
       },
+      backgroundImage: {
+        'portada':"url('/src/imgs/hero.jpg')"
+      },
     },
   },
   plugins: [],
